@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I'm Kristen
-- 👩🏻‍💻 my pronouns are she/her/hers
+- 👩🏻‍💻 My pronouns are she/her/hers
 - 🛠️ I'm interested in APIs & dev tools
 - 🪴 My 2022 goal is to learn TypeScript
 - ⚙️ I'm currently exploring PowerShell & scripting
