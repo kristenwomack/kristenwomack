@@ -3,4 +3,4 @@
 - 🛠️ I'm interested in APIs & dev tools
 - 🪴 My 2022 goal is to learn TypeScript
 - ⚙️ I'm currently exploring PowerShell & scripting
-- 📚 My 2020 reading goal: 75 books
+- 📚 My 2022 reading goal: 75 books
