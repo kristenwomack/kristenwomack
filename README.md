@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I'm Kristen
 - 👩🏻‍💻 My pronouns are she/her/hers
-- 🛠️ I'm interested in APIs & dev tools
-- 🪴 My 2022 goal is to learn TypeScript
-- ⚙️ I'm currently exploring PowerShell & scripting
-- 📚 My 2022 reading goal: 75 books
+- 🛠️ I am an API product manager focused on DX & dev tooling
+- 🪴 My 2023 goal is to learn more about shell scripting
+- ⚙️ I'm currently learning to play the ukulele
+- 📚 My 2023 reading goal: 80 books
