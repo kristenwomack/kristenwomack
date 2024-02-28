@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I'm Kristen
 - 👩🏻‍💻 My pronouns are she/her/hers
-- 🛠️ I am an API product manager focused on DX & dev tooling
-- 🪴 My 2023 goal is to learn more about shell scripting
-- ⚙️ I'm currently learning to play the ukulele
-- 📚 My 2023 reading goal: 80 books
+- 🛠️ I am a principal product manager focused on DX & dev tooling
+- 🪴 My 2024 goal is to learn shell scripting
+- ⚙️ I'm working on the Azure Devloper CLI (azd)
+- 📚 My 2024 reading goal: 90 books
