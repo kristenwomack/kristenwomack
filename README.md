@@ -2,5 +2,5 @@
 - 👩🏻‍💻 My pronouns are she/her/hers
 - 🛠️ I am a principal product manager focused on DX & dev tooling
 - 🪴 My 2024 goal is to learn shell scripting
-- ⚙️ I'm working on the Azure Devloper CLI (azd)
+- ⚙️ I'm working on the Azure Developer CLI (azd)
 - 📚 My 2024 reading goal: 90 books
