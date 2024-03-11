@@ -1,6 +1,5 @@
-- 👋🏻 Hi, I'm Kristen
-- 👩🏻‍💻 My pronouns are she/her/hers
-- 🛠️ I am a principal product manager focused on DX & dev tooling
-- 🪴 My 2024 goal is to learn shell scripting
-- ⚙️ I'm working on the Azure Developer CLI (azd)
-- 📚 My 2024 reading goal: 90 books
+- 👋🏻 Hi, I'm Kristen (she/her/hers)
+- 🛠️ I am a principal product manager focused on APIs, developer experience, & dev tooling
+- 👩🏻‍💻 I'm working on the Microsoft Azure Developer CLI (azd)
+- 🪴 Currently learning more about shell scripting
+- 📚 2024 reading goal: 90 books
