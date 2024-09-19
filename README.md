@@ -1,6 +1,6 @@
 👋🏻 Hi, I'm Kristen <br>
 🛠️ I'm a principal product manager focused on APIs, developer experience, & dev tooling <br>
-👩🏻‍💻 working on the Microsoft Azure Developer CLI (azd) <br>
+👩🏻‍💻 working on the [Microsoft Azure Developer CLI (azd)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/) <br>
 🪴 and currently learning to build a sauna <br>
 📚 2024 reading goal: 90 books (45/90) <br>
 
