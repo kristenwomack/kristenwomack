@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I'm Kristen
-- 🛠️ I am a principal product manager focused on APIs, developer experience, & dev tooling
-- 👩🏻‍💻 I'm working on the Microsoft Azure Developer CLI (azd)
-- 🪴 Currently learning more about shell scripting and kusto
-- 📚 2024 reading goal: 90 books (44/90)
+- 🛠️ I'm a principal product manager focused on APIs, developer experience, & dev tooling
+- 👩🏻‍💻 working on the Microsoft Azure Developer CLI (azd)
+- 🪴 and currently learning to build a sauna
+- 📚 2024 reading goal: 90 books (45/90)
