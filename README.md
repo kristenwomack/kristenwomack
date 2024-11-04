@@ -5,9 +5,9 @@
 📚 2024 reading goal: 90 books (62/90) <br>
 
 Upcoming talks:
-- OCT 30 [GitHub Universe](https://reg.githubuniverse.com/flow/github/universe24/attendee-portal/page/sessioncatalog/session/1722975257185001oCrC)
 - NOV 21 - Microsoft Ignite
 
 Recent talks:
+- OCT 30 [GitHub Universe](https://reg.githubuniverse.com/flow/github/universe24/attendee-portal/page/sessioncatalog/session/1722975257185001oCrC)
 - OCT 09 [From Zero to AI: Building Smarter Apps with AI API Integrations at Nordic APIs Platform Summit](https://nordicapis.com/events/platform-summit-2024/)
 - OCT 08 [Developer Experience Panel Discussion](https://nordicapis.com/sessions/developer-experience-panel-discussion/)
