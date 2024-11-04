@@ -2,7 +2,7 @@
 🛠️ I'm a principal product manager focused on APIs, developer experience, & dev tooling <br>
 👩🏻‍💻 working on the [Microsoft Azure Developer CLI (azd)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/) <br>
 🪴 and currently learning to build a sauna <br>
-📚 2024 reading goal: 90 books (62/90) <br>
+📚 2024 reading goal: 90 books (66/90) <br>
 
 Upcoming talks:
 - NOV 21 - Microsoft Ignite
