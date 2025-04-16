@@ -2,7 +2,7 @@
 🛠️ I'm a principal product manager focused on APIs, developer experience, & dev tooling <br>
 👩🏻‍💻 working on the [Microsoft Azure Developer CLI (azd)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/) <br>
 🪴 and currently tinkering with macropads and Raspberry Pi <br>
-📚 2025 reading goal: 90 books (15/90) <br>
+📚 2025 reading goal: 90 books (17/90) <br>
 
 Upcoming talks and conferences:
 - Microsoft Build Lab - May 2025
