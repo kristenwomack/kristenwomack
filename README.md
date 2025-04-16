@@ -4,6 +4,9 @@
 🪴 and currently tinkering with macropads and Raspberry Pi <br>
 📚 2025 reading goal: 90 books (15/90) <br>
 
+Upcoming talks and conferences:
+- Microsoft Build Lab - May 2025
+
 Recent talks:
 - JAN 13, 2025 [Open at Microsoft episode](https://youtu.be/NNy6qPMAg60?si=IgoXSZ10et2LPGb3) - deploy an app with AI vision capabilities 
 - NOV 21, 2024 [Microsoft Ignite](https://ignite.microsoft.com/en-US/sessions/0c222358-fd2b-4f6f-b5f2-e113d60eae58)
