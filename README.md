@@ -1,7 +1,7 @@
 👋🏻 Hi, I'm Kristen <br>
-🛠️ I'm a principal product manager focused on APIs, developer experience, & dev tooling <br>
-👩🏻‍💻 working on the [Microsoft Azure Developer CLI (azd)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/) <br>
-🪴 and currently tinkering with macropads and Raspberry Pi <br>
+🛠️ I'm a principal product manager at Microsoft working on the [Azure Developer CLI (azd)](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/) <br>
+👩🏻‍💻 I like APIs, developer experience, & dev tooling <br> 
+🪴 I'm currently tinkering with macropads and keyboards <br>
 📚 2025 reading goal: 90 books (17/90) <br>
 
 Upcoming talks and conferences:
