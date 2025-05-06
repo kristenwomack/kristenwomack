@@ -4,13 +4,13 @@
 🪴 I'm currently tinkering with macropads and keyboards <br>
 📚 2025 reading goal: 90 books (17/90) <br>
 
-Upcoming talks and conferences:
-===============================
+Upcoming talks and conferences
+---
 - Microsoft Build Lab - May 2025
 - ✨NEW✨ Nordic APIs - October 2025
 
-Recent talks:
-=============
+Recent talks
+---
 - JAN 13, 2025 [Open at Microsoft episode](https://youtu.be/NNy6qPMAg60?si=IgoXSZ10et2LPGb3) - deploy an app with AI vision capabilities 
 - NOV 21, 2024 [Microsoft Ignite](https://ignite.microsoft.com/en-US/sessions/0c222358-fd2b-4f6f-b5f2-e113d60eae58)
 - OCT 30, 2024 [GitHub Universe](https://reg.githubuniverse.com/flow/github/universe24/attendee-portal/page/sessioncatalog/session/1722975257185001oCrC)
