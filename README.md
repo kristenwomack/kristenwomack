@@ -6,6 +6,7 @@
 
 Upcoming talks and conferences:
 - Microsoft Build Lab - May 2025
+- ✨NEW✨ Nordic APIs - October 2025
 
 Recent talks:
 - JAN 13, 2025 [Open at Microsoft episode](https://youtu.be/NNy6qPMAg60?si=IgoXSZ10et2LPGb3) - deploy an app with AI vision capabilities 
