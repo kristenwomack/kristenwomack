@@ -6,7 +6,7 @@
 
 Upcoming talks and conferences
 ---
-- Microsoft Build Lab - May 2025
+- [Adding AI to your Application]([url](https://build.microsoft.com/en-US/sessions/7e8a12ef-240c-44ed-a1bf-fdff017669b9)) - Microsoft Build Lab (Proctor) - May 2025
 - ✨NEW✨ Nordic APIs - October 2025
 
 Recent talks
